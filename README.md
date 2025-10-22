@@ -54,7 +54,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ghanshyam-07/Ghanshyam-07/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Ghanshyam-07/Ghanshyam-07/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/Ghanshyam-07/Ghanshyam-07/output/snake.gif" alt="Snake animation" height="200" />
+
 
 ###
 
